@@ -1,0 +1,9 @@
+.imageGallery {
+  margin-top: 8rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}

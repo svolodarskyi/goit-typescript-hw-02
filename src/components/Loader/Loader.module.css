@@ -1,0 +1,8 @@
+.loaderContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.loader {
+  color: rgb(148, 145, 145);
+}

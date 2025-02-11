@@ -1,0 +1,18 @@
+.LoadMoreBtnWrapper {
+  padding: 2rem 0;
+}
+
+.LoadMoreBtn {
+  display: block;
+  margin-inline: auto;
+  background-color: rgb(44, 44, 44);
+  color: white;
+  font-family: sans-serif;
+  padding: 0.7rem 2rem;
+  border-radius: 50px;
+}
+
+.LoadMoreBtn:hover,
+.LoadMoreBtn:focus {
+  background-color: rgb(17, 16, 16);
+}

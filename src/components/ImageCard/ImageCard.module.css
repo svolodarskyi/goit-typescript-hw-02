@@ -1,0 +1,13 @@
+.imageCard {
+  width: 400px;
+  height: 300px;
+  cursor: zoom-in;
+}
+
+.imageCard:hover {
+  transform: scale(1.01);
+}
+
+.imageCardContainer {
+  max-width: 400px;
+}
